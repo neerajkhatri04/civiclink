@@ -1,0 +1,16 @@
+node_modules*
+test* 
+.env* 
+
+AI_CONFIGURATION.md
+DATABASE_SCHEMA.md      
+ladingPage_design.jsx
+prd.md
+AUTHENTICATION_SETUP.md       
+MIGRATION_SUMMARY.md    
+README1.md
+future_enhancements.md  
+MULTI_PROJECT_SETUP.md  
+VERTEX_AI_SETUP.md
+serviceAccountKey*
+*-key.json
